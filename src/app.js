@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function(){
   const infoDiv = document.querySelector('div#animal-info')
   const animalInfoDisplay = new AnimalInfoView(infoDiv);
   animalInfoDisplay.bindEvents();
-
+  
   const animalsDataSource = new Animals();
   animalsDataSource.bindEvents();
 });

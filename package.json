@@ -1,7 +1,7 @@
 {
   "name": "example_app_fastest_animals",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Duration: 60 minutes**",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,15 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "webpack": "^4.4.1",
+    "webpack": "^4.17.1",
     "webpack-cli": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannyque/week_07_day_02_fastest_animals_lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tannyque/week_07_day_02_fastest_animals_lab/issues"
+  },
+  "homepage": "https://github.com/tannyque/week_07_day_02_fastest_animals_lab#readme"
 }
